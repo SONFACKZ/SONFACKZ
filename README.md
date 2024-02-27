@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sonelf_san
+- 👋 Hi, I’m @Sonelf_San
 - 👀 I’m interested in Web, Mobile and AI programming...
 
 <!---
